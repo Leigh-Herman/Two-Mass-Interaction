@@ -1,5 +1,5 @@
-\contentsline {section}{\numberline {1}Defining the Problem Framework}{3}{section.1}%
-\contentsline {section}{\numberline {2}Setting Up the Geodesic Equations}{4}{section.2}%
-\contentsline {section}{\numberline {3}Numerical Integration of Geodesics}{5}{section.3}%
-\contentsline {section}{\numberline {4}Visualization of Geodesics}{6}{section.4}%
-\contentsline {section}{\numberline {5}Representation of the Spacetime Field}{7}{section.5}%
+\contentsline {section}{\numberline {1}Defining the Problem Framework}{2}{section.1}%
+\contentsline {section}{\numberline {2}Setting Up the Geodesic Equations}{3}{section.2}%
+\contentsline {section}{\numberline {3}Numerical Integration of Geodesics}{3}{section.3}%
+\contentsline {section}{\numberline {4}Visualization of Geodesics}{4}{section.4}%
+\contentsline {section}{\numberline {5}Representation of the Spacetime Field}{4}{section.5}%
